@@ -1,6 +1,5 @@
 # importKMLfiles.py
 # March 4, 2015
-# Copyright 2015 RTI International All Rights Reserved
 # CC BY. This work is licensed under a Creative Commongs Attribution License. (US/v4.0)
 # https://creativecommons.org/licenses/by/4.0/
 # David Chrest
